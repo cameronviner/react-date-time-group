@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "moment": "^2.10.6",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
     "react-bootstrap": "^0.26.1",
     "react-datepicker": "^0.13.0",
     "react-time-select": "cameronviner/react-datepicker"
