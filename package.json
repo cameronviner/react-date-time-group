@@ -27,9 +27,9 @@
     "moment": "^2.10.6",
     "react": "^0.14.0",
     "react-bootstrap": "^0.27.3",
-    "react-datepicker": "^0.13.0",
+    "react-datepicker": "cameronviner/react-datepicker",
     "react-dom": "^0.14.1",
-    "react-time-select": "cameronviner/react-datepicker"
+    "react-time-select": "^1.0.2"
   },
   "devDependencies": {
     "babel": "^5.8.23",
